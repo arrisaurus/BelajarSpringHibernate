@@ -28,4 +28,6 @@ public class App {
     }
 
     /*Test Commit di Branch crazy-idea*/
+
+    /*Test Commit menggunakan cmd*/
 }
