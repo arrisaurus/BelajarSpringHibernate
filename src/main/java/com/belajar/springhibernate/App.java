@@ -29,5 +29,5 @@ public class App {
 
     /*Test Commit di Branch crazy-idea*/
 
-    /*Test Commit menggunakan cmd 2*/
+    /*Test Commit menggunakan cmd 2 di Branch crazy-idea*/
 }
