@@ -27,5 +27,5 @@ public class App {
         return (MahasiswaService) applicationContext.getBean("MahasiswaService");
     }
 
-    /*Test Commit*/
+    /*Test Commit di Branch crazy-idea*/
 }
